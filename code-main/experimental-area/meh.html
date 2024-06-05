@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tampilkan dan Sembunyikan Iframe</title>
+<style>
+  .iframe-container {
+    border: 2px solid black; /* Tambahkan border */
+    width: 600px; /* Atur lebar iframe */
+    height: 400px; /* Atur tinggi iframe */
+    display: none; /* Sembunyikan iframe awalnya */
+  }
+</style>
+</head>
+<body>
+
+<h2>Tampilkan dan Sembunyikan Iframe</h2>
+
+<button onclick="toggleIframe('iframe')">Tampilkan / Sembunyikan Iframe 1</button>
+<button onclick="toggleIframe('iframe')">Tampilkan / Sembunyikan Iframe 2</button>
+
+<iframe id="iframe" class="iframe-container" src="https://www.example1.com" frameborder="0" allowfullscreen></iframe>
+<iframe id="iframe" class="iframe-container" src="https://www.example2.com" frameborder="0" allowfullscreen></iframe>
+
+<script>
+// Buat objek untuk melacak status tampilan iframe
+var iframeStatus = {
+  iframe1: false,
+  iframe2: false
+};
+
+function toggleIframe(id) {
+  var iframe = document.getElementById(id);
+  // Jika iframe tidak ditampilkan, maka tampilkan dan atur status menjadi true
+  if (!iframeStatus[id]) {
+    iframe.style.display = "block";
+    iframeStatus[id] = true;
+  } else { // Jika iframe sudah ditampilkan, maka sembunyikan dan atur status menjadi false
+    iframe.style.display = "none";
+    iframeStatus[id] = false;
+  }
+}
+</script>
+
+</body>
+</html>

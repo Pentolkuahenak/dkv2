@@ -1,0 +1,129 @@
+.gambar{
+    border-style: outset;
+    border-radius: 15px;
+    position:relative;
+    left:80px;
+    background-color: #3c3c3c;
+    padding: 5px;
+}
+.t-seru {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    transition: 0.5s;
+}
+.t-seru:hover {
+    transform: scale(1);
+    width: 70px;
+    display: block;
+}
+
+.mataangin{
+    position: absolute;
+    top:5px;
+    left:1170px
+}
+.bgklaten{
+    position: absolute;
+    left:-13px;
+    z-index: -1;
+    top:135px;
+}
+.audio{
+    z-index: -2;
+    width:100px;
+    position: absolute;
+    left: 200px;
+    top: 1px;
+    
+}
+.vidio{
+    position: absolute;
+    left: 910px;
+    top: 10px;
+    width: 350px;
+}
+
+.kotak{
+    width: 490px;
+    background-color: #3c3c3c;
+    border-radius: 30px;
+    display: block;
+    text-align: center;
+    position:absolute;
+    left: 5px;
+    color: rgb(201, 200, 200);
+    font-family:'Franklin Gothic Medium';
+}
+h1{
+    text-align: center;
+    font-size: 27px;
+    font-family:'Franklin Gothic Medium' ;
+    background-color: #3c3c3c;
+    border-radius: 25px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    color:rgb(201, 200, 200);
+    padding: 7px;
+}
+
+
+.contoh{
+    position: absolute;
+    left:450px;
+}
+.menu1{
+    position: relative;
+    left: 300px;
+}
+.menu2{
+    position: relative;
+    left: 200px;
+}
+.menu3{
+    position: relative;
+    left: 100px;
+}
+.sidebar {
+    height: 100%;
+    width: 500px; /* Mengatur lebar sidebar */
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: -500px; /* Memposisikan sidebar di luar layar kiri */
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    border-radius: 25px;
+  }
+
+  .sidebar a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+
+  .sidebar a:hover {
+    color: #f1f1f1;
+  }
+
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+
+  .content {
+    transition: margin-left 0.5s;
+  }
+
+  .content img {
+    cursor: pointer;
+  }
+

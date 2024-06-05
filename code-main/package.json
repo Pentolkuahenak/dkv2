@@ -1,0 +1,15 @@
+{
+  "name": "map-klaten",
+  "version": "1.0.0",
+  "description": "<img src=\"./image/logo-kab-klaten.png\" alt=\"logo kabupaten klaten\" height=\"120rm\"><img src=\"./image/logo-pptq-ibbas.png\" alt=\"logo kabupaten klaten\" height=\"120rm\">",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pentolkuahenak/code.git"
+  },
+  "author": "Tim Krenova Ibnu Abbas Klaten 2",
+  "license": "ISC"
+}

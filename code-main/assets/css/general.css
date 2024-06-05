@@ -1,0 +1,673 @@
+/*--------------------INFORMASI WISATA KLATEN----------------->
+/*krenova.css*/
+/*body bertujuan memberikan map dan background dari website*/
+body{
+    background-color: rgb(22, 212, 212);
+    background-image:url(../image/kecamatan\ kalten.png);
+    background-position-x: -300px;
+    background-position-y: -10px;
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*mark bertujuan memberikan posisi pada ikon yang ada pada map*/
+.mark{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.ul{
+    color: #000;
+    font-size: 5px;
+}
+.teks{
+    display: none;
+    border: 0.5px solid #000;
+    width: 250px;
+    position: absolute;
+    left: 500px;
+    text-align: center;
+    font-family:haettenschweiler ;
+    color: white;
+    background-color: #000;
+    top:555px;
+    border-radius: 5px;
+    letter-spacing: 3px;
+    z-index:1;
+    
+}
+
+  
+a:hover+.teks {
+    transform: scale(2);
+    display: block;
+}
+.teks-t-seru {
+    display: none;
+    border: 0.5px solid #000;
+    width: 300px;
+    position: absolute;
+    left: 250px;
+    text-align: center;
+    font-family: haettenschweiler ;
+    color: #fff;
+    background-color: #3c3c3c;
+    top: 180px;
+    border-radius: 15px;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.margincreator{
+    margin:5px;
+    border-radius: 7px;
+}
+
+  
+a:hover+.teks-t-seru {
+    transform: scale(2);
+    display: block;
+}
+p{
+    
+    border-radius: 20px;
+    padding:3px;
+    font-size: 20px;
+    text-align: center;
+    margin:1px;
+    font-family:'Geneva';
+    
+}
+h2{
+    text-align: center;
+    font-size:30px;
+    background-color: gray;
+    border-radius:30px ;
+    padding:10px
+}
+
+/*------------------wisata--------------*/
+
+
+/*rowo jombor*/
+.rowo_jombor{
+    position:absolute;
+    top: 490px;
+    left: 350px;
+    transition:0.5s;
+}    
+.rowo_jombor:hover{
+    transform: scale(1.5);
+    width : 30px;
+    z-index:1;
+}
+
+/*candi sewu*/
+.candi_sewu{
+    position: absolute;
+    top: 435px;
+    left: 130px;
+    transition:0.5s;
+}
+.candi_sewu:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 2;
+}
+
+/*candi plaosan*/
+.candi_plaosan{
+    position: absolute;
+    top: 435px;
+    left: 150px;
+    transition:0.5s;
+}
+.candi_plaosan:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*candi merak*/
+.candi_merak{
+    position: absolute;
+    top: 280px;
+    left: 210px;
+    transition:0.5s;
+}
+.candi_merak:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*candi sojiwan*/
+.candi_sojiwan{
+    position: absolute;
+    top: 455px;
+    left: 120px;
+    transition:0.5s;
+}
+.candi_sojiwan:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*museum gondangwinangoen*/
+.museum_gondangwinangoen{
+    position: absolute;
+    top: 430px;
+    left: 220px;
+    transition: 0.5s;
+}
+.museum_gondangwinangoen:hover{
+    transform: scale(1.5);
+    width:30px
+}
+
+/*umbul ponggok*/
+.umbul_ponggok{
+    position:absolute;
+    top: 200px;
+    left: 380px;
+    transition:0.5s;
+}
+.umbul_ponggok:hover{
+    transform:scale(1.5);
+    width:30px;
+    z-index: 1;
+}
+#myVideo::-webkit-media-controls-timeline {
+    display: none !important;}
+
+/*umbul jolotundo*/
+.umbul_jolotundo{
+    position:absolute;
+    top: 300px;
+    left: 300px;
+    transition:0.5s;
+}
+.umbul_jolotundo:hover{
+    transform:scale(1.5);
+    width: 30px;
+
+}
+
+/*umbul cokrotulung*/
+.umbul_cokrotulung{
+    position: absolute;
+    top: 190px;
+    left: 390px;
+    transition: 0.5s;
+}
+.umbul_cokrotulung:hover{
+    transform:scale(1.5);
+    width: 25px;
+    z-index:2;
+}
+
+/*umbul pelem*/
+.umbul_pelem{
+    position: absolute;
+    top: 170px;
+    left: 380px;
+    transition: 0.5s;
+}
+.umbul_pelem:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*umbul manten*/
+.umbul_manten{
+    position: absolute;
+    top:170px;
+    left:370px;
+    transition: 0.5s;
+}
+.umbul_manten:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 2;
+}
+
+/*umbul sigedangkapilaler*/
+.umbul_sigedangkapilaler{
+    position: absolute;
+    top:200px;
+    left: 400px;
+    transition: 0.5s;
+}
+.umbul_sigedangkapilaler:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+/*Zamdu*/
+/*candi karangnongko*/
+.candi_karangnongko{
+    position: absolute;
+    top: 350px;
+    left: 229px;
+    transition: 0.5s;
+}
+.candi_karangnongko:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*candi untoroyono*/
+.masjid_alaqsha{
+    position: absolute;
+    top: 350px;
+    left: 325px;
+    transition: 0.5s;
+}
+.masjid_alaqsha:hover{
+    transform: scale(1.5);
+    width: 30px;   
+    z-index:2 
+}
+
+/*candi gana*/
+.candi_gana{
+    position: absolute;
+    top: 508px;
+    left: 130px;
+    transition: 0.5s;
+}
+.candi_gana:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*taman lampion*/
+.taman_lampion{
+    position:absolute;
+    top: 374px;
+    left: 318px;
+    transition: 0.5s;
+}
+.taman_lampion:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*taman barepan*/
+.taman_barepan{
+    position: absolute;
+    top: 513px;
+    left: 461px;
+    transition: 0.5s;
+}
+.taman_barepan:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*taman widorogreen*/
+.taman_widorogreen{
+    position: absolute;
+    top: 463px;
+    left: 478px;
+    transition: 0.5s;
+}
+.taman_widorogreen:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*taman watuprau*/
+.sidoguro{
+    position: absolute;
+    top: 497px;
+    left: 348px;
+    transition: 0.5s;
+}
+.sidoguro:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*kolam renang tirtayudhabhakti*/
+.kolamrenang_tirtayudhabakti{
+    position: absolute;
+    top: 456px;
+    left: 288px;
+    transition: 0.5s;
+}
+.kolamrenang_tirtayudhabakti:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*kolam renang tirtakencanamiri*/
+.kolamrenang_tirtakencanamiri{
+    position: absolute;
+    top: 426px;
+    left: 432px;
+    transition: 0.5s;
+}
+.kolamrenang_tirtakencanamiri:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index:1;
+}
+
+/*kolam renang tirtaalbarokah*/
+.kolamrenang_tirtaalbarokah{
+    position: absolute;
+    top: 420px;
+    left: 331px;
+    transition:0.5s;
+}
+.kolamrenang_tirtaalbarokah:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*umbul pokak*/
+.resto_ketceh{
+    position: absolute;
+    top: 170px;
+    left: 410px;
+    transition: 0.5s;
+}
+.resto_ketceh:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*taman ekowisata litalang*/
+.taman_ekowisatatalitalang{
+    position: absolute;
+    top: 144px;
+    left: 78px;
+    transition: 0.5s;
+}
+.taman_ekowisatatalitalang:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*taman delesindah*/
+.taman_delesindah{
+    position: absolute;
+    top: 124px;
+    left: 90px;
+    transition: 0.5s;
+}
+.taman_delesindah:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*taman wisata omah trasan*/
+.taman_wisataomahtrasan{
+    position: absolute;
+    top:270px;
+    left: 500px;
+    transition: 0.5s;
+}
+.taman_wisataomahtrasan:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*taman gelora mbah carik*/
+.hutankota{
+    position:absolute;
+    top: 368px;
+    left:305px;
+    transition: 0.5s;
+}
+.hutankota:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*lapangan alun-alun*/
+.lapangan_alunalun{
+    position:absolute;
+    top: 410px;
+    left: 300px;
+    transition: 0.5s;
+}
+.lapangan_alunalun:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*lapangan jelobo*/
+.desa_sidowarno{
+    position: absolute;
+    top: 270px;
+    left: 630px;
+    transition: 0.5s;
+}
+.desa_sidowarno:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*lapangan sambegunting*/
+.sungai_kalimosodo{
+    position:absolute;
+    top: 175px;
+    left:301px;
+    transition: 0.5s;
+}
+.sungai_kalimosodo:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*lapangan koplak andong*/
+.taman_koplakandong{
+    position: absolute;
+    top:295px;
+    left:370px;
+    transition:0.5s;
+}
+.taman_koplakandong:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*sentralurik*/
+.sentralurik{
+    position:absolute;
+    top:370px;
+    left:490px;
+    transition: 0.5s;
+}
+.sentralurik:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*kolam renang sedangkuwanen*/
+.kolamrenang_sendangkuwanen{
+    position:absolute;
+    top:370px;
+    left:110px;
+    transition: 0.5s;
+}
+.kolamrenang_sendangkuwanen:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*lapangan purwakrida*/
+.airterjungemulai{
+    position:absolute;
+    top:250px;
+    left:278px;
+    transition:0.5s;
+}
+.airterjungemulai:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+
+/*lapangan socokangsi*/
+.kedunggudel{
+    position: absolute;
+    top:210px;
+    left:390px;
+    transition: 0.5s;
+}
+.kedunggudel:hover{
+    transform:scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+
+/*gunung gajah*/
+.gunung_gajah{
+    position:absolute;
+    top:515px;
+    left:380px;
+    transition: 0.5s;
+}
+.gunung_gajah:hover{
+    transform: scale(1.5);
+    width: 30px;
+}
+.rivermoon{
+    position: absolute;
+    top:212px;
+    left:370px;
+    transition:0.5s;
+}
+.rivermoon:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index:1
+}
+
+/*ombak*/
+.ombak4{
+    position:absolute;
+    top: 70px;;
+    left: 400px;
+}
+.ombak5{
+    position:absolute;
+    top:150px;
+    left: 700px;
+}
+.ombak6{
+    position: absolute;
+    top:300px;
+    left:900px;
+}
+.ombak7{
+    position: absolute;
+    top:400px;
+    left:650px
+}
+
+.ombak9{
+    position:absolute;
+    top: 510px; 
+    left:580px
+}
+.ombak11{
+    position:absolute;
+    top:400px;
+    left:25px
+}
+
+.ombak13{
+    position: absolute;
+    top: 40px;
+    left: 150px;
+}
+.ombak14{
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+
+/*kapal*/
+.bajaklaut2{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    z-index: -1;
+}
+.kapal2{
+    position: absolute;
+    top:50px;
+    left:500px;
+}
+.kapal3{
+    position: absolute;
+    top:500px;
+    left:700px;
+}
+.bajaklaut1{
+    position: absolute;
+    top: 400px;
+    left: 800px;
+    z-index: -2;
+}
+.kapal5{
+    position: absolute;
+    top: 550px;
+    left: 50px;
+}
+.kapal6{
+    position: absolute;
+    top:260px;
+    left:850px
+}
+.bajaklaut3{
+    position: absolute;
+    top: 100px;
+    left: 800px;
+}
+
+/*paus*/
+.paus1{
+    position: absolute;
+    top: 200px;
+    left: 25px;
+}
+.paus2{
+    position: absolute;
+    top:300px;
+    left:750px
+}
+.paus3{
+    position: absolute;
+    left: 840px;
+    top:570px;
+    z-index: -1;
+}
+/*------------Image Slideshow--------*/
+.slideshow-container {
+    position: relative;
+}
+
+.mySlides {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 220px;
+    opacity: 0;
+    transition: 1s ease-in-out; /* Efek fade selama 1 detik */
+}
+
+.fade {
+    opacity: 1;
+}
