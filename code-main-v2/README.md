@@ -1,4 +1,4 @@
-<img src="./assets/image/logo-kab-klaten.png" alt="logo kabupaten klaten" height="120rm"><img src="./assets/image/logo-pptq-ibbas.png" alt="logo kabupaten klaten" height="120rm">
+<img src="./img/logo/logo-kab-klaten.png" alt="logo kabupaten klaten" height="120rm"><img src="./img/logo/logo-pptq-ibbas.png" alt="logo kabupaten klaten" height="120rm">
 
 # Krenova se-SUBOSUKAWONOSRATEN 2024
 ## PPTQ Ibnu Abbas Klaten 2
