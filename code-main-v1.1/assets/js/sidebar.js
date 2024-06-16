@@ -443,3 +443,99 @@ function toggleSidebar() {
       video.play();
     }
   }
+  function toggleSidebar38() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar38");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+  function toggleSidebar39() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar39");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+  function toggleSidebar40() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar40");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+  function toggleSidebar41() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar41");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+  function toggleSidebar42() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar42");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+  function toggleSidebar43() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar43");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+  function toggleSidebar44() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar44");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+  function toggleSidebar45() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar45");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
