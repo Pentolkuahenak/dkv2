@@ -13,3 +13,5 @@
 #### Afiq Tamamuddin Al Ilmi
 ### Dubbing By:
 #### Ahsanu Ibadillah
+### Accompanied By:
+#### Ustadz Septian Teja Irawan
