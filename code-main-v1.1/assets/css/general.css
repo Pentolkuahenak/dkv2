@@ -582,9 +582,108 @@ h2{
 .rivermoon:hover{
     transform: scale(1.5);
     width: 30px;
-    z-index:1
+    z-index:1;
 }
 
+.girpasang{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.girpasang:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.tlingsing{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.tlingsing:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.kiagengribig{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.kiagengribig:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.waseso{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.waseso:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.sunanpandanaran{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.sunanpandanaran:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.tirtosinongko{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.tirtosinongko:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.omahwayang{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.omahwayang:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.gunungwijil{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.gunungwijil:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.melikan{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.melikan:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
 /*ombak*/
 .ombak4{
     position:absolute;
