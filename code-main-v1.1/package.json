@@ -1,0 +1,24 @@
+{
+  "name": "dolan-klaten",
+  "version": "1.1.0",
+  "description": "<img src=\"./image/logo-kab-klaten.png\" alt=\"logo kabupaten klaten\" height=\"120rm\"><img src=\"./image/logo-pptq-ibbas.png\" alt=\"logo kabupaten klaten\" height=\"120rm\">",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pentolkuahenak/code.git"
+  },
+  "author": "Tim Krenova Ibnu Abbas Klaten 2",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

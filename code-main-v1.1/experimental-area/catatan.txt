@@ -1,0 +1,11 @@
+plaosan
+gondangwinangoen
+gana
+sojiwan
+<a><img src="./assets/image/t-seru.png" alt="tanda seru" class="t-seru" width="50px"></a>
+      <div class="teks-t-seru">Disclaimer
+        <br><br>Air yang berada di peta ini hanya dilebihkan saja, sebenarnya klaten merupakan sebuah suatu kabupaten yang ada di Jateng. 
+        <br>Kami memang membuat website ini unik dengan cara menambahkan perairan di luar Kabupaten Klaten. 
+        <br>Oleh karena itu kami ingin menyajikan website kami dengan suatu ciri khas yang membuatnya berbeda dari yang lain.
+      </div>
+      

@@ -1,0 +1,40 @@
+.iframe-container {
+    display: none; /* Sembunyikan iframe awalnya */
+    border: 10px solid black; /* Tambahkan border dengan ketebalan 2px dan warna hitam */
+    border-radius: 10px;
+    position: absolute;
+    font-size: 0;
+    z-index: 2;
+  }
+  #iframe1 {
+    margin-left: 580px;
+    margin-top: 20px;
+  }
+  #iframe3 {
+    margin-left: 580px;
+    margin-top: 20px;
+  }
+  #iframe8 {
+    margin-left: 550px;
+    margin-top: 65px;
+  }
+  #iframe9 {
+    margin-left: 550px;
+    margin-top: 20px;
+  }
+  #iframe10 {
+    margin-left: 550px;
+    margin-top: 20px;
+  }
+  #iframe19 {
+    margin-left: 580px;
+    margin-top: 20px;
+  }
+  #iframe24 {
+    margin-left: 550px;
+    margin-top: 65px;
+  }
+  #iframe25 {
+    margin-left: 580px;
+    margin-top: 20px;
+  }
