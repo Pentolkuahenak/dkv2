@@ -684,6 +684,127 @@ h2{
     width: 30px;
     z-index: 1;
 }
+.umbulasri{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.umbulasri:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.umbulsusuhan{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.umbulsusuhan:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.umbulnilo{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.umbulnilo:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.umbulbrondong{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.umbulbrondong:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.umbulgedaren{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.umbulgedaren:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.ronggowarsito{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.ronggowarsito:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.bugisan{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.bugisan:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.jarum{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.jarum:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.kebondalemkidul{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.kebondalemkidul:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.desaponggok{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.desaponggok:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
+.janti{
+    position: absolute;
+    top:px;
+    left:px;
+    transition:0.5s;
+}
+.janti:hover{
+    transform: scale(1.5);
+    width: 30px;
+    z-index: 1;
+}
 /*ombak*/
 .ombak4{
     position:absolute;
