@@ -11,7 +11,7 @@ function toggleSidebar() {
     }
   }
 
-  function toggleSidebar2() {
+function toggleSidebar2() {
   var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar2");
@@ -23,7 +23,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar3() {
+function toggleSidebar3() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar3");
@@ -35,7 +35,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar4() {
+function toggleSidebar4() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar4");
@@ -47,7 +47,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar5() {
+function toggleSidebar5() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar5");
@@ -59,7 +59,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar6() {
+function toggleSidebar6() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar6");
@@ -71,7 +71,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar7() {
+function toggleSidebar7() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar7");
@@ -83,7 +83,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar8() {
+function toggleSidebar8() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar8");
@@ -95,7 +95,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar9() {
+function toggleSidebar9() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar9");
@@ -107,7 +107,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar10() {
+function toggleSidebar10() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar10");
@@ -119,7 +119,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar11() {
+function toggleSidebar11() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar11");
@@ -131,7 +131,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar12() {
+function toggleSidebar12() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar12");
@@ -143,7 +143,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar13() {
+function toggleSidebar13() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar13");
@@ -155,7 +155,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar14() {
+function toggleSidebar14() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar14");
@@ -167,7 +167,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar15() {
+function toggleSidebar15() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar15");
@@ -179,7 +179,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar16() {
+function toggleSidebar16() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar16");
@@ -191,7 +191,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar17() {
+function toggleSidebar17() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar17");
@@ -203,7 +203,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar18() {
+function toggleSidebar18() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar18");
@@ -215,7 +215,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar19() {
+function toggleSidebar19() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar19");
@@ -227,7 +227,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar20() {
+function toggleSidebar20() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar20");
@@ -239,7 +239,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar21() {
+function toggleSidebar21() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar21");
@@ -251,7 +251,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar22() {
+function toggleSidebar22() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar22");
@@ -263,7 +263,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar23() {
+function toggleSidebar23() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar23");
@@ -275,7 +275,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar24() {
+function toggleSidebar24() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar24");
@@ -287,7 +287,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar25() {
+function toggleSidebar25() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar25");
@@ -299,7 +299,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar26() {
+function toggleSidebar26() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar26");
@@ -311,7 +311,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar27() {
+function toggleSidebar27() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar27");
@@ -323,7 +323,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar28() {
+function toggleSidebar28() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar28");
@@ -335,7 +335,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar29() {
+function toggleSidebar29() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar29");
@@ -347,7 +347,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar30() {
+function toggleSidebar30() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar30");
@@ -359,7 +359,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar31() {
+function toggleSidebar31() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar31");
@@ -371,7 +371,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar32() {
+function toggleSidebar32() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar32");
@@ -383,7 +383,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar33() {
+function toggleSidebar33() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar33");
@@ -395,7 +395,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar34() {
+function toggleSidebar34() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar34");
@@ -407,7 +407,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar35() {
+function toggleSidebar35() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar35");
@@ -419,7 +419,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar36() {
+function toggleSidebar36() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar36");
@@ -431,7 +431,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar37() {
+function toggleSidebar37() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar37");
@@ -443,7 +443,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar38() {
+function toggleSidebar38() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar38");
@@ -455,7 +455,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar39() {
+function toggleSidebar39() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar39");
@@ -467,7 +467,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar40() {
+function toggleSidebar40() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar40");
@@ -479,7 +479,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar41() {
+function toggleSidebar41() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar41");
@@ -491,7 +491,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar42() {
+function toggleSidebar42() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar42");
@@ -503,7 +503,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar43() {
+function toggleSidebar43() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar43");
@@ -515,7 +515,7 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar44() {
+function toggleSidebar44() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar44");
@@ -527,10 +527,153 @@ function toggleSidebar() {
       video.play();
     }
   }
-  function toggleSidebar45() {
+function toggleSidebar45() {
     var video = document.getElementById("myVideo");
 
     var sidebar = document.getElementById("sidebar45");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar46() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar46");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar47() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar47");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar48() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar48");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar49() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar49");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar50() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar50");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar51() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar51");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar52() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar52");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar53() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar53");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar54() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar54");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar55() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar55");
+    if (sidebar.style.left === "0px" && video.pause) {
+      sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
+      video.pause();
+    } else {
+      sidebar.style.left = "0px";
+      video.play();
+    }
+  }
+
+  function toggleSidebar56() {
+    var video = document.getElementById("myVideo");
+
+    var sidebar = document.getElementById("sidebar56");
     if (sidebar.style.left === "0px" && video.pause) {
       sidebar.style.left = "-500px"; // Sembunyikan menu saat gambar diklik lagi
       video.pause();
